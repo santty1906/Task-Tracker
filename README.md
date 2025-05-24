@@ -15,7 +15,7 @@ The original version was built using the C programming language. It allows users
 - Identify the project with the highest and lowest completion percentages.
 - Calculate overall progress for each project.
 
-> 📂 File: `task_tracker.c`
+> 📂 File: `task-tracker.c`
 
 ### 🐍 Python Version
 
@@ -23,4 +23,4 @@ The Python version replicates the core functionality of the C version, but with:
 - Predefined task data for testing and demonstration.
 - Simplified structure using lists and control flow.
 
-> 📂 File: `task_tracker.py`
+> 📂 File: `task-tracker.py`
